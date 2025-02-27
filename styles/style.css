@@ -288,11 +288,16 @@ nav ul li a {
   justify-content: space-between;
   align-items: center;
   gap: 1rem;
+  
 }
 
 .portfolio h4 {
   font-weight: 500;
   font-size: 1.05rem;
+}
+.portfolioTittle h4{
+  font-weight: 500;
+  font-size: 1.7rem;
 }
 
 .portfolio-title a svg:hover {

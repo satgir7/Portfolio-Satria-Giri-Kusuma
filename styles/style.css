@@ -78,6 +78,7 @@ a {
   border: 1.5px solid var(--primaryIconColor);
   cursor: pointer;
   transition: 0.2s ease-in-out;
+  border-radius: 0.5rem;
 }
 
 .btn:hover {
